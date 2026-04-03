@@ -1,4 +1,4 @@
-# TEKNOLOGI SEBAGAI MITOS DAN HIPERREALITAS
+# TEKNOLOGI SEBAGAI MITOS DAN HIPERREALITAS DI ERA DIGITAL
 
 <img width="855" height="834" alt="image" src="https://github.com/user-attachments/assets/39ffcd41-a538-46bf-86b0-5827cbae9009" />
 
