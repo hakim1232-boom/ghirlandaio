@@ -118,8 +118,13 @@ Sedangkan kode sumber tertutup (closed source) itu lebih menekankan ke kepemilik
 
 # BAB III PENUTUP
 ## 3.1 KESIMPULAN
+
 # DAFTAR PUSTAKA
 1. KEMAJUAN TEKNOLOGI DAN POLA HIDUP MANUSIA DALAM PERSPEKTIF SOSIAL BUDAYA https://share.google/LnIzk3PnC667TCHlU
 2. The origins of the state: technology, cooperation and institutions https://www.researchgate.net/publication/347823248_The_origins_of_the_state_technology_cooperation_and_institutions 
 3. Evolution of State Scientific and Technical Policy in USSR in Late 1960s
-https://share.google/RpHGV9gNU3GI3KkDy 
+https://share.google/RpHGV9gNU3GI3KkDy
+4. Berlin, Leslie. 2017. Troublemakers: Silicon Valley's Coming of Age: Simon and Schuster.
+5. "Apa Itu Open Source? Pengertian, Contoh, Kelebihan, dan Kekurangannya | Sistem Informasi - Universitas Telkom Surabaya" https://bis-sby.telkomuniversity.ac.id/apa-itu-open-source-memahami-kelebihan-dan-kekurangannya/
+6. "Memahami Dunia Open Source: Filosofi, Manfaat, dan Tantangannya" https://terapan-ti.vokasi.unesa.ac.id/post/memahami-dunia-open-source-filosofi-manfaat-dan-tantangannya
+7. "Open Source vs Closed Source: Memahami Perbedaan, Kelebihan, Kekurangan, dan Contohnya – Politeknik Penerbangan Palembang" https://poltekbangplg.ac.id/open-source-vs-closed-source-memahami-perbedaan-kelebihan-kekurangan-dan-contohnya/
